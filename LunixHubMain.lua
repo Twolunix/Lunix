@@ -10,7 +10,7 @@
 setclipboard("Lunix Hub")
 -- List Of Games Script 👾
 local MenuUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/SetUIY/main/One.lua"))()
-MenuUI:WindowCreate("Lunix Hub","rbxassetid://80086118575102","Lunix Hub")
+MenuUI:WindowCreate("Lunix Hub","rbxassetid://80086118575102","Menu Script")
 MenuUI:ButtonAdd("Blox Fruits Main",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Twolunix/LunixHub/refs/heads/main/LunixHub.lua"))()
     MenuUI:WindowDelete()
